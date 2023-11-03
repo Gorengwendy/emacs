@@ -106,7 +106,7 @@
        ;;rgb               ; creating color strings
        ;;taskrunner        ; taskrunner for all your projects
        terraform         ; infrastructure as code
-       ;;tmux              ; an API for interacting with tmux
+       tmux              ; an API for interacting with tmux
        tree-sitter       ; syntax and parsing, sitting in a tree...
        ;;upload            ; map local to remote projects via ssh/ftp
 
@@ -163,8 +163,6 @@
         +journal
         +pomodoro
         +pretty
-        +dragndrop
-        +noter
         +pandoc
         +present)              ; Organize your plain life in plain text
        ;;php               ; perl's insecure younger brother
@@ -173,7 +171,7 @@
        (python
         +lsp)            ; beautiful is better than ugly
        ;;qt                ; the 'cutest' gui framework ever
-       (racket +lsp)          ; a DSL for DSLs
+       ;;(racket +lsp)          ; a DSL for DSLs
        ;;raku              ; the artist formerly known as perl6
        ;;rest              ; Emacs as a REST client
        ;;rst               ; ReST in peace
