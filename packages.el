@@ -9,16 +9,11 @@
 ;; To install SOME-PACKAGE from MELPA, ELPA or emacsmirror:
 (unpin! org-roam)
 (package! org-roam-ui)
-(package! d2-mode)
 (package! cue-mode)
 (package! jsonnet-mode)
 (package! helm-gitignore)
-(package! plantuml-mode)
-(package! flycheck-plantuml)
-(package! elfeed-org)
 (package! org-alert)
-(package! nov)
-(package! djvu)
+(package! vagrant)
 
 ;; Copilot
 (package! copilot
